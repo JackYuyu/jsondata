@@ -1,4 +1,4 @@
-{
+{"code":"success","msg":"操作成功","data":{
                             "id": 1,
                             "name": "海蒂珠宝 点睛 正圆强光Akoya海水珍珠耳钉 G18K金正品七夕送女友",
                             "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i4/40364364/O1CN01e67bvG1i6l1HU0Gqk_!!0-saturn_solar.jpg_360x360Q90.jpg_.webp",
@@ -119,5 +119,6 @@
                                     "url": "https://img.alicdn.com/imgextra/i2/1578679970/TB24dwYtVXXXXb0XpXXXXXXXXXX_!!1578679970.jpg"
                                 }
                             ]
+                        }
 }
                         
