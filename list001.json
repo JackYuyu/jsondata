@@ -1,12 +1,12 @@
 {
-    "code" : "success";
+    "code" : "success",
     "data" :     {
-        "endRow" : 8;
-        "hasNextPage" : 0;
-        "hasPreviousPage" : 0;
-        "isFirstPage" : 1;
-        "isLastPage" : 1;
-        "list" :         {
+        "endRow" : 8,
+        "hasNextPage" : 0,
+        "hasPreviousPage" : 0,
+        "isFirstPage" : 1,
+        "isLastPage" : 1,
+        "list" :         [
             {
                 "id": 3201,
                 "name": "Columbia哥伦比亚春夏季经典款轻薄款单层冲锋衣男户外外套KE0071",
@@ -831,21 +831,19 @@
                     }
                 ]
             }
-        };
-        "navigateFirstPage" : 1;
-        "navigateLastPage" : 1;
-        "navigatePages" : 8;
-        "navigatepageNums" :         (
-            1
-        );
-        "nextPage" : 0;
-        "pageNum" : 1;
-        "pageSize" : 10;
-        "pages" : 1;
-        "prePage" : 0;
-        "size" : 8;
-        "startRow" : 1;
-        "total" : 8;
-    };
-    "msg" : "\U64cd\U4f5c\U6210\U529f";
+        ],
+        "navigateFirstPage" : 1,
+        "navigateLastPage" : 1,
+        "navigatePages" : 8,
+        "navigatepageNums" : 1,
+        "nextPage" : 0,
+        "pageNum" : 1,
+        "pageSize" : 10,
+        "pages" : 1,
+        "prePage" : 0,
+        "size" : 8,
+        "startRow" : 1,
+        "total" : 8,
+    },
+    "msg" : "\U64cd\U4f5c\U6210\U529f"
 }
